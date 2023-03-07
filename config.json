@@ -1,1 +1,14 @@
-test content for app config
+[
+    {
+        "name": "Arnout Cator",
+        "address line 1": "1207 Mawes House",
+        "address line 2": "5 Castle Square",
+        "post code": "SE17 1EQ"
+    },
+    {
+        "name": "Wandy McWonderful",
+        "address line 1": "1207 Mawes House",
+        "address line 2": "5 Castle Square",
+        "post code": "SE17 1EQ"
+    }
+]
